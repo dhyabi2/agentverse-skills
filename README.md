@@ -26,6 +26,7 @@ Give your AI coding agent (Claude Code, Codex, Copilot, Cursor, Gemini CLI) the 
 | [`agentverse-inspect`](skills/agentverse-inspect/) | Inspect any agent's metadata, protocols, and Almanac status | `inspect_agent.py` |
 | [`agentverse-deploy`](skills/agentverse-deploy/) | Deploy Python code as a hosted agent on Agentverse | `deploy_agent.py` |
 | [`asi1-chat`](skills/asi1-chat/) | Query the ASI:One LLM (`asi1` / `asi1-mini`) via API | `asi1_chat.py` |
+| [`vend-data`](skills/vend-data/) | Paid web-content endpoints via Vend (Nano x402): extract page text, search, check links, geolocate IPs, domain intelligence — no API key | `vend_data.py` |
 
 ---
 
